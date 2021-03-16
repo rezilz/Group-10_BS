@@ -1,0 +1,151 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.55);
+    font-size: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.bgw {
+    background-color:rgb(130,142,228);
+}
+.ourmem{
+    color: rgba(214, 214, 214, 0.733);
+    font-weight: bold;
+    font-size: 20px;
+}
+.ourmen:hover{
+    color:white;
+}
+.navbar-brand {
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: normal;
+    font-size: 30px;
+    font-weight: bold;
+}
+section.header{
+    background:url('../assets/images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;    
+}
+section.header .header-container .container {
+    height: 100vh;
+    width: 100%;
+}
+.head-content{
+    width: 800px;
+    color: rgb(218, 218, 218);
+    margin-left: auto;
+    margin-right: auto;
+}
+.head-content h1{
+    font-size: 9vw;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.head-content p{
+    font-size:1.5vw;
+    font-weight: bold ;
+}
+.customizable{
+    margin-top: 80px;
+    color: rgb(5, 42, 161);
+}
+
+.bg{
+    height: 92%;
+    width: 100%;
+}
+.bgcolor{
+    background-color:#557a95;
+}
+.headmem{
+    font-size: 2.5vw;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+.headmem h1{
+    margin-left: 10%;
+    margin-top: 10%;
+    color: white;
+}
+.box{
+    width: 400px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: white;
+    height: 16vw;
+    width: 16vw;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.circle1{
+    border-radius: 50%;
+    background-color: white;
+    height: 25vw;
+    width: 25vw;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.displayinline{
+    display: inline;
+}
+.alink{
+    color: white;
+    text-decoration: none;
+
+
+}
+.margintop{
+    margin-top: 10%;
+}
+.margintop1{
+    margin-top: 10px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.textcenter{
+    text-align: center;
+}
+.textshadow{
+    text-shadow: black 0.05em 0.05em 0.1em;
+}
+.nickname{
+    font-size: 3vw;
+}
+.alink:hover {
+    font-size: 32px;
+    color: grey;
+    font-weight: bold;
+  }
+.circle:hover{
+    height: 20vw;
+    width: 20vw;
+    transition: 1s;
+}
+.detail{
+    color: white;
+    margin-top: 20px;
+    font-size: medium;
+    
+
+}
+.left:hover{
+    height: 70px;
+    width: 70px;
+}
+.right:hover{
+    height: 70px;
+    width: 70px;
+}
+.svgp{
+    width:40px ;
+    height:40px;
+}
